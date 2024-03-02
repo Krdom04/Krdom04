@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-Hello hello I'm Kris
-Mechatronics student in 🇩🇰
-I love messing around with Machine Learning and C
+Wassup it's Chris
+Engineering student
+Love messing around with lots of data
 
-Skills:
-Python
-  Jupyter, Pandas, Matplotlib
-C
+Python & C
