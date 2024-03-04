@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Wassup it's Chris <br /> 
+Wassup it's Kris <br /> 
 Engineering student <br />
-I lve messing around with lots of data
+I looove messing around with lots of data
 <br />
 
 <h3 align="left">Languages & Tools:</h3>
