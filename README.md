@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Wassup it's Kris <br /> 
-Engineering student <br />
-I looove messing around with lots of data
+Helllo
 <br />
 
 <h3 align="left">What I use:</h3>
